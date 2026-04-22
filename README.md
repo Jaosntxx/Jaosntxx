@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é João Victor e eu sou um desenvolvedor front-end, de 18 anos</p>
+<p align="left">Meu nome é João Victor tenho  de 19 anos e sou um desenvolvedor front-end e estudante de segurança da informação.</p>
 
 ###
 
